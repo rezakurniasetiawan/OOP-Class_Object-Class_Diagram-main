@@ -1,7 +1,7 @@
 package com.yoman;
 /**
  *
- * @author Taufik
+ * @author Reza
  */
 public class Pecahan {
     public int pembilang, penyebut;
